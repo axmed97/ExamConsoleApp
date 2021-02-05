@@ -1,0 +1,7 @@
+C:\Users\axmed\source\repos\ExamConsoleApp\ExamConsoleApp\bin\Debug\ExamConsoleApp.exe.config
+C:\Users\axmed\source\repos\ExamConsoleApp\ExamConsoleApp\bin\Debug\ExamConsoleApp.exe
+C:\Users\axmed\source\repos\ExamConsoleApp\ExamConsoleApp\bin\Debug\ExamConsoleApp.pdb
+C:\Users\axmed\source\repos\ExamConsoleApp\ExamConsoleApp\obj\Debug\ExamConsoleApp.csprojAssemblyReference.cache
+C:\Users\axmed\source\repos\ExamConsoleApp\ExamConsoleApp\obj\Debug\ExamConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\axmed\source\repos\ExamConsoleApp\ExamConsoleApp\obj\Debug\ExamConsoleApp.exe
+C:\Users\axmed\source\repos\ExamConsoleApp\ExamConsoleApp\obj\Debug\ExamConsoleApp.pdb
